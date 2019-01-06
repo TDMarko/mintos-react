@@ -10,6 +10,8 @@ Requirements:
 TODO:
 - Play against AI
 - Store statictics (dunno what for, but fun)
+- Tests
+- Reorganize components 
 
 Install:
 ```sh
