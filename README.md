@@ -4,7 +4,7 @@ Requirements:
 - NodeJS
 
 Install:
-npm install
-npm start
+> npm install
+> npm start
 
 Or use yarn, if you like it more :)
