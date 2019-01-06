@@ -4,7 +4,9 @@ Requirements:
 - NodeJS
 
 Install:
-> npm install
-> npm start
+```sh
+$ npm install --production
+$ NODE_ENV=production node app
+```
 
 Or use yarn, if you like it more :)
